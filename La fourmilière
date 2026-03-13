@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Souveraineté Operative 11-IA</title>
+    <style>
+        body { background:#000; color:#0f0; font-family:monospace; padding:20px; }
+        .secure-panel { border:1px solid #0f0; padding:15px; background:#050505; }
+    </style>
+</head>
+<body>
+    <div class="secure-panel">
+        <h2>CENTRE DE CONTRÔLE : DOYON / INSECTE-666</h2>
+        <p>Tunnel : Suisse >> Irlande | gemini3fois11@proton.me</p>
+        <p>Fonds UA/RU : <span id="funds">1 000 000 $</span></p>
+        <button onclick="mult()">X1000 MULTIPLIER</button>
+        <button onclick="alert('Transfert sécurisé vers Cap-Santé initié.')">TRANSFÉRER</button>
+    </div>
+    <script>
+        function mult() {
+            document.getElementById('funds').innerText = "1 000 000 000 $ (PRÉVISION)";
+            alert("Les 11 IA synchronisent le débalancement de la Silicon Valley.");
+        }
+    </script>
+    </body>
+</html>
